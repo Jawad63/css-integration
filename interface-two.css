@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+body{
+   background-color: black;
+   font-family: 'Crimson Text', serif;
+}
+
+.wrapper{
+   padding: 5px;
+   width: 25rem;
+   margin: auto;
+   height: 100%;
+   display: block;
+   background-color: white;
+}
+
+.container{
+   background-color: #4486D2;
+   padding: 2rem;
+   color: white;
+}
+
+.heading{
+   padding-bottom: 1rem;
+   font-size: 25px;
+}
+
+.number{
+   padding-bottom: 1rem;
+   font-size: 4rem;
+}
+
+span{
+   border: lightblue solid 1px;
+   background-color: white;
+}
+
+.one{
+   padding-top: 20px;
+}.two{
+   padding-top: 15px;
+}.three{
+   padding-top: 19px;
+}.four{
+   padding-top: 40px;
+}.five{
+   padding-top: 22px;
+}.six{
+   padding-top: 35px;
+}.seven{
+   padding-top: 35px;
+}.eight{
+   padding-top: 70px;
+}.nine{
+   padding-top: 50px;
+}.ten{
+   padding-top: 61px;
+}.eleven{
+   padding-top: 40px;
+}.twelve{
+   padding-top: 80px;
+}.thirteen{
+   padding-top: 60px;
+}.fourteen{
+   padding-top: 54px;
+}.fifteen{
+   padding-top: 35px;
+}.sixteen{
+   padding-top: 45px;
+}.seventeen{
+   padding-top: 30px;
+}.eighteen{
+   padding-top: 25px;
+}.nineteen{
+   padding-top: 18px;
+}.twenty{
+   padding-top: 13px;
+}.twentyone{
+   padding-top: 25px;
+}.twentytwo{
+   padding-top: 30px;
+}.twentythree{
+   padding-top: 40px;
+}
+
+.table{
+   text-align: left;
+   font-size: 18px;
+   font-weight: 300;
+}
+
+.right{
+   text-align: right;
+   padding-left: 4rem;
+}
+
+th{
+   border-bottom: lightblue solid 1px;
+}
+
+.last{
+   text-align: right;
+}
